@@ -1,14 +1,46 @@
 package com.wsh.androidstudydemo;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+import com.wsh.androidstudydemo.base.BaseActivity;
+import com.wsh.androidstudydemo.ui.views.MyViewActivity;
+
+import butterknife.Bind;
+
+
+public class MainActivity extends BaseActivity {
+
+    @Bind(R.id.tv_main)
+    TextView tvMain;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        // githup
+    protected void initView() {
+        super.initView();
+        tvMain.setText("butterkite222");
     }
+
+    @Override
+    protected int getLayout() {
+        return R.layout.activity_main;
+    }
+
+    @Override
+    protected void initData() {
+        autoOpenActivity();
+    }
+
+    private void autoOpenActivity() {
+        if (autoOpenActivityEnable()) {
+            openActivity(getTargetActivity());
+        }
+    }
+
+    protected boolean autoOpenActivityEnable() {
+        return true;
+    }
+
+    protected Class<?> getTargetActivity() {
+        return MyViewActivity.class;
+    }
+
 }
