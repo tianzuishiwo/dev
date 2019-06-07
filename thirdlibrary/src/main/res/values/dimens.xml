@@ -1,0 +1,69 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+  <!--  <dimen name="gowild_toolbar_height">@dimen/gowild_110px</dimen>
+    &lt;!&ndash; Default screen margins, per the Android Design guidelines. &ndash;&gt;
+    <dimen name="gowild_skill_item_width">@dimen/gowild_140px</dimen>
+    <dimen name="gowild_skill_item_name_align_thumb">@dimen/gowild_20px</dimen>
+    <dimen name="gowild_padding_edge">@dimen/gowild_30px</dimen>
+    <dimen name="gowild_skill_detail_padding_top">@dimen/gowild_160px</dimen>
+    <dimen name="gowild_skill_detail_padding_left">@dimen/gowild_70px</dimen>
+    <dimen name="gowild_skill_detail_thumb_padding_top">@dimen/gowild_50px</dimen>
+    <dimen name="gowild_skill_detail_close_padding">@dimen/gowild_16px</dimen>
+    <dimen name="gowild_skill_detail_padding">@dimen/gowild_34px</dimen>
+    <dimen name="gowild_skill_detail_lab_padding_bottom">@dimen/gowild_38px</dimen>
+
+    <dimen name="gowild_photo_item_width">@dimen/gowild_230px</dimen>
+    <dimen name="gowild_photo_detail_thumb_width">@dimen/gowild_130px</dimen>
+    <dimen name="gowild_photo_item_select_padding">@dimen/gowild_10px</dimen>
+    <dimen name="gowild_photo_item_ver_padding">@dimen/gowild_24px</dimen>
+    <dimen name="gowild_photo_bottom_height">@dimen/gowild_80px</dimen>
+    <dimen name="gowild_setting_list_height">@dimen/gowild_90px</dimen>
+    <dimen name="gowild_setting_list_height_mut_line">@dimen/gowild_115px</dimen>
+    <dimen name="gowild_mine_list_height">@dimen/gowild_125px</dimen>
+    <dimen name="gowild_setting_scene_height">@dimen/gowild_80px</dimen>
+    <dimen name="gowild_photo_detail_gallery_space">@dimen/gowild_5px</dimen>
+    <dimen name="gowild_photo_gallery_height">@dimen/gowild_300px</dimen>
+    <dimen name="gowild_photo_gallery_margin_bottom">@dimen/gowild_160px</dimen>
+
+    <dimen name="gowild_ts_skill_title">@dimen/gowild_36px</dimen>
+    <dimen name="gowild_ts_skill_name">@dimen/gowild_30px</dimen>
+    <dimen name="gowild_ts_skill_name_detail">@dimen/gowild_40px</dimen>
+    <dimen name="gowild_ts_skill_status_detail">@dimen/gowild_26px</dimen>
+    <dimen name="gowild_ts_skill_detail_lab">@dimen/gowild_30px</dimen>
+    <dimen name="gowild_ts_skill_detail_lab_content">@dimen/gowild_24px</dimen>
+
+    <dimen name="gowild_ts_net_resource_hint">@dimen/gowild_28px</dimen>
+    <dimen name="gowild_ts_net_resource_name">@dimen/gowild_28px</dimen>
+    <dimen name="gowild_ts_net_resource_author">@dimen/gowild_22px</dimen>
+
+    <dimen name="gowild_ts_photo_date">@dimen/gowild_font_size_25px</dimen>
+
+    <dimen name="gowild_ts_toolbar">@dimen/gowild_font_size_34px</dimen>
+    <dimen name="gowild_left_right_toolbar">@dimen/gowild_font_size_26px</dimen>
+    <dimen name="gowild_cpb_music_play_width">@dimen/gowild_555px</dimen>
+    <dimen name="gowild_music_photo_width">@dimen/gowild_550px</dimen>
+    <dimen name="gowild_net_resource_item_height">@dimen/gowild_120px</dimen>
+    <dimen name="gowild_sub_title_item_height">@dimen/gowild_60px</dimen>
+    <dimen name="gowild_net_resource_list_padding">@dimen/gowild_32px</dimen>
+    <dimen name="gowild_net_resource_play_btn_height">@dimen/gowild_54px</dimen>
+    <dimen name="gowild_net_resource_play_btn_width">@dimen/gowild_96px</dimen>
+    <dimen name="gowild_font_size_small">@dimen/gowild_font_size_14px</dimen>
+    <dimen name="gowild_font_size_middle">@dimen/gowild_font_size_28px</dimen>
+    <dimen name="gowild_font_size_big">@dimen/gowild_font_size_38px</dimen>
+    <dimen name="gowild_font_size_big_plus">@dimen/gowild_font_size_48px</dimen>-->
+    <dimen name="bottom_menu_btn_height">48dp</dimen>
+    <dimen name="bottom_menu_corner">6dp</dimen>
+    <dimen name="bottom_menu_btn_margin">2dp</dimen>
+    <dimen name="bottom_menu_btn_text_size">20sp</dimen>
+    <dimen name="bottom_menu_layout_margin">12dp</dimen>
+    <dimen name="touch_raise">8dp</dimen>
+
+    <dimen name="hover_tab_size">130dp</dimen>
+    <dimen name="hover_tab_margin">8dp</dimen>
+    <dimen name="hover_navigator_corner_radius">7dp</dimen>
+    <dimen name="hover_exit_icon_size">40dp</dimen>
+    <dimen name="hover_exit_radius">75dp</dimen>
+</resources>

@@ -3,6 +3,7 @@ package com.wsh.androidstudydemo;
 import android.widget.TextView;
 
 import com.wsh.androidstudydemo.base.BaseActivity;
+import com.wsh.androidstudydemo.ui.toast.ToastActivity;
 import com.wsh.androidstudydemo.ui.views.MyViewActivity;
 
 import butterknife.Bind;
@@ -40,7 +41,8 @@ public class MainActivity extends BaseActivity {
     }
 
     protected Class<?> getTargetActivity() {
-        return MyViewActivity.class;
+//        return MyViewActivity.class;
+        return ToastActivity.class;
     }
 
 }

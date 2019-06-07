@@ -33,4 +33,9 @@ dependencies {
 
     api 'com.blankj:utilcode:1.23.7'
     api 'com.google.code.gson:gson:2.8.5'
+    api 'com.android.support:recyclerview-v7:28.0.0'
+    api 'com.android.support:support-v4:28.0.0'
+
+    // "support-v4"             : "com.android.support:support-v4:${version["androidSupportSdkVersion"]}",
+//    api 'com.android.support:recyclerview-v7:recyclerview-v7:26.1.0'
 }

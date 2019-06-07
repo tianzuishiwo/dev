@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--默认颜色-->
+    <color name="transparent">#00000000</color>
+    <color name="gowild_default_background">#fff8f8f8</color>
+    <color name="gowild_black">#000000</color>
+    <color name="gowild_refresh_color">#777777</color>
+    <color name="gowild_trans_black">#ff000000</color>
+    <color name="gowild_default_line">#E8E8E8</color>
+    <color name="gowild_default_hint">#cccccc</color>
+
+    <!--默认颜色-->
+    <color name="gowild_default_blue">#2395FF</color>
+    <color name="gowild_default_gray">#C7C7C7</color>
+    <!-- 圆环的颜色 -->
+    <color name="circle_end_color">#ff19A1FE</color>
+    <color name="circle_start_color">#1119A1FE</color>
+    <color name="circle_back_color">#ffffff</color>
+    <color name="circle_end_color_grey">#7F7F7F</color>
+    <color name="circle_start_color_grey">#117F7F7F</color>
+    <color name="circle_back_color_grey">#117F7F7F</color>
+    <!--结束-->
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff19A1FE</color>
+    <color name="default_blue">#2395FF</color>
+    <color name="default_blue_90">#e52395FF</color>
+    <color name="default_black_60">#99000000</color>
+    <color name="default_black_30">#33000000</color>
+    <color name="default_grey">#8f8f8f</color>
+    <color name="home_title_grey">#7f7f7f</color>
+    <color name="default_top_bar_split">#e8e8e8</color>
+    <color name="color_font_grey">#b8b8b8</color>
+    <color name="color_font_deep_grey">#707070</color>
+    <color name="color_text_gray">#656565</color>
+    <color name="color_view_divide_gray">#ffbfc1c7</color>
+
+    <!-- edit text color -->
+    <color name="edit_split_line">#e8e8e8</color>
+    <!--登录要用的颜色-->
+    <color name="gowild_splash_grey">#8f8f8f</color>
+    <!--闹钟和提醒-->
+    <color name="gowild_alert_clock_button_gray_side">#A5A4A4</color>
+    <color name="gowild_alert_clock_button_blue_side">#2395FF</color>
+    <color name="gowild_alert_clock_title">#2395FF</color>
+    <color name="gowild_alert_clock_edittext_black_side">#B1B1B1</color>
+    <color name="gowild_alert_clock_edittext_hind">#C1C1C1</color>
+    <color name="gowild_plugin_setting_gray">#515151</color>
+
+    <!--技能包-->
+    <color name="gowild_color_skill_title">#8f8f8f</color>
+    <color name="gowild_color_skill_detail_lab_content">#bce5ff</color>
+    <color name="gowild_color_red">#FD5644</color>
+    <color name="gowild_white">#ffffff</color>
+    <color name="gowild_color_484848">#484848</color>
+    <color name="gowild_white_half_transparent">#51ffffff</color>
+    <color name="gowild_black_half_transparent">#51000000</color>
+    <color name="gowild_black_trans_40">#66000000</color>
+    <color name="gowild_color_b6">#b6b6b6</color>
+    <!--音乐-->
+    <color name="gowild_color_sort_name">#19A1FE</color>
+    <color name="gowild_color_white_blue">#5CACFF</color>
+
+    <!--listview的分割线-->
+    <color name="gowild_honor_gray">#ffe8e8e8</color>
+    <color name="gowild_appliance_e6">#E6E6E6</color>
+    <color name="gowild_appliance_cf">#CFCFCF</color>
+    <color name="gowild_diver_ed">#ededed</color>
+    <color name="gowild_text_gray">#727272</color>
+    <color name="gowild_gray_a0">#a0a0a0</color>
+    <color name="gowild_gray_99">#999999</color>
+
+    <!-- 家电控制 -->
+    <color name="buttontext">#787878</color>
+    <color name="orange_btn_color_disable">#7fffb24d</color>
+
+    <!-- 升级更新 -->
+    <color name="province_line_border">#19A1FE</color>
+    <color name="gowild_video_toolbar">#32000000</color>
+    <color name="gowild_button_start_color">#03A9FF</color>
+    <color name="gowild_button_end_color">#0386FF</color>
+    <color name="gowild_color_gray_captain">#efefef</color>
+    <color name="gowild_round_top_button">#2f2f2f</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+
+    <color name="gowild_normal_tab_text_color">#999999</color>
+    <color name="gowild_book_text_color">#000000</color>
+
+    <color name="bottom_menu_btn_bg_common_color">#FFFFFF</color>
+    <color name="bottom_menu_btn_bg_press_color">#EEEEEE</color>
+    <color name="bottom_menu_btn_text_commom_color">#2395FF</color>
+    <color name="bottom_menu_btn_text_press_colot">#3F51B5</color>
+    <color name="bottom_menu_btn_text_stress_color">#FD5644</color>
+    <color name="bottom_menu_layout_color">#00000000</color>
+    <color name="gowild_bg_board_press">#E5E0E2E4</color>
+    <color name="gowild_round_gray_eff2f4">#EFF2F4</color>
+    <color name="gowild_color_blue_end">#73a7f7</color>
+    <color name="gowild_switch_gray">#464748</color>
+    <color name="gowild_border_color">#C4C5CA</color>
+    <color name="gowild_color_a6">#a6a6a6</color>
+    <color name="gowild_color_af">#afafaf</color>
+    <color name="gowild_color_b5">#b5b5b5</color>
+    <color name="gowild_color_be">#bebebe</color>
+    <color name="gowild_color_33">#333333</color>
+    <color name="gowild_color_34">#343434</color>
+    <color name="gowild_color_36">#363636</color>
+    <color name="gowild_color_92">#929292</color>
+    <color name="gowild_color_22">#222222</color>
+    <color name="gowild_color_f5">#f5f5f5</color>
+    <color name="gowild_color_99">#999999</color>
+    <color name="gowild_color_e5">#E5E5E5</color>
+    <color name="gowild_color_ea">#EAEAEA</color>
+    <color name="gowild_color_ee">#EEEEEE</color>
+    <color name="gowild_color_d3">#d3d3d3</color>
+    <color name="gowild_color_df">#dfdfdf</color>
+    <color name="gowild_color_70">#707070</color>
+    <color name="gowild_color_73">#737373</color>
+    <color name="gowild_color_7d">#7d7d7d</color>
+    <color name="gowild_color_82">#828282</color>
+    <color name="gowild_color_84">#848484</color>
+    <color name="gowild_color_86">#868686</color>
+    <color name="gowild_color_f0">#f0f0f0</color>
+    <color name="gowild_color_f2">#f2f2f2</color>
+    <color name="gowild_color_f3">#f3f3f3</color>
+    <color name="gowild_spot_on">#2395FF</color>
+    <color name="gowild_spot_off">#D9E0E7</color>
+</resources>

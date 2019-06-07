@@ -10,6 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
+        android:name=".App"
         tools:ignore="GoogleAppIndexingWarning">
 
         <activity android:name=".MainActivity"
@@ -22,7 +23,9 @@
         </activity>
 
 
+
         <activity android:name=".ui.views.MyViewActivity"/>
+        <activity android:name=".ui.toast.ToastActivity"/>
 
     </application>
 
