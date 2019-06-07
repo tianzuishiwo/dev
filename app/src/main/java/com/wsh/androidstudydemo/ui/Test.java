@@ -1,5 +1,8 @@
 package com.wsh.androidstudydemo.ui;
 
+import com.blankj.utilcode.util.GsonUtils;
+import com.google.gson.Gson;
+
 public class Test {
     /**
      * 关于ui模块分包
@@ -18,4 +21,8 @@ public class Test {
      * animate
      *
      */
+    public static void mytest(){
+        Gson gson = new Gson();
+        Gson gson1 = GsonUtils.getGson();
+    }
 }
