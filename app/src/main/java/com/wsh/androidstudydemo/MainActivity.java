@@ -3,6 +3,7 @@ package com.wsh.androidstudydemo;
 import android.widget.TextView;
 
 import com.wsh.androidstudydemo.base.BaseActivity;
+import com.wsh.androidstudydemo.ui.dialog.DialogActivity;
 import com.wsh.androidstudydemo.ui.toast.ToastActivity;
 import com.wsh.androidstudydemo.ui.views.MyViewActivity;
 
@@ -42,7 +43,7 @@ public class MainActivity extends BaseActivity {
 
     protected Class<?> getTargetActivity() {
 //        return MyViewActivity.class;
-        return ToastActivity.class;
+        return DialogActivity.class;
     }
 
 }

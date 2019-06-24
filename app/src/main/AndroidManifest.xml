@@ -26,6 +26,7 @@
 
         <activity android:name=".ui.views.MyViewActivity"/>
         <activity android:name=".ui.toast.ToastActivity"/>
+        <activity android:name=".ui.dialog.DialogActivity"/>
 
     </application>
 
